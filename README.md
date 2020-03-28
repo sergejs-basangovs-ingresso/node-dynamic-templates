@@ -1,0 +1,2 @@
+# To start:
+npm start
